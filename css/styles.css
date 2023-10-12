@@ -92,6 +92,17 @@ input {
     /* margin-right: 76px; */
 }
 
+@media screen and (min-width:768px) {
+    .logo {
+            margin-right: 120px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .logo {
+            margin-right: 76px;
+    }
+}
 .word {
     color: #2e2f42;
 }
